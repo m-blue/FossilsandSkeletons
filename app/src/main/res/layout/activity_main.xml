@@ -25,4 +25,12 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
         android:contentDescription="@string/imgLarge" />
+
+    <Button
+        android:id="@+id/btnLearn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Learn More"
+        android:textSize="18sp" />
+
 </LinearLayout>
